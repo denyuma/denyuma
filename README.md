@@ -1,7 +1,7 @@
 ### I'm Den Yuma and interested in Web Technologies
 
 ### Languages / Framework
-- JavaScript/Typescript
+- JavaScript/TypeScript
   - React.js
   - Next.js
   - Node.js
