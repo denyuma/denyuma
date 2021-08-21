@@ -8,6 +8,7 @@
   - Express
 
 - GraphQL
+  - Apollo.js 
 
 - Golang
 
