@@ -1,4 +1,4 @@
-### I'm Den Yuma and interested in Web Technologies
+### I'm Den Yuma
 
 ### Languages / Framework
 - JavaScript/TypeScript
